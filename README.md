@@ -1,22 +1,21 @@
 Introduction
 ------------
 
-e.g. Generic description of the project
+A simple hangman game as a final assignment of a computer science summer program.
 
 
 Installation
 -------------
 
-e.g. the software, libraries, tools required to use the program
-It is important that you mention the exact version that you are using (e.g. Python 3.8)
+I used Python 3.10, and this code can be used with Terminal.
 
 Usage
 -----
 
-You should describe in detail how to use your program.
+A random word is generated, where you are to guess the word until you run out of points. 
 
 
 References
 -----------
 
-e.g. links or articles (title, year, authors)
+None.
